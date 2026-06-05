@@ -36,6 +36,10 @@ Output:
 - Relative dates ("today", "tomorrow") pass through verbatim; the backend resolves them.
 - ~180 balanced examples with contrastive pairs do the heavy lifting — the dataset is the product.
 
+## Output
+<img width="1484" height="574" alt="Screenshot 2026-06-05 at 8 08 32 PM" src="https://github.com/user-attachments/assets/c8414ebf-9293-4677-9f94-df01c635cc0c" />
+
+
 ## Built with
 
 [Unsloth](https://github.com/unslothai/unsloth) · [TRL](https://github.com/huggingface/trl) · Llama 3.2 1B Instruct
