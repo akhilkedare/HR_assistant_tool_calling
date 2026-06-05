@@ -17,7 +17,7 @@ Original file is located at
 
 **What we'll show:**
 1. The base model **cannot** do structured tool routing
-2. We create a training dataset (~80 examples)
+2. We create a training dataset (~160 examples)
 3. Fine-tune with Unsloth + LoRA in ~10 minutes on free Colab T4
 4. The fine-tuned model **nails it** — correct tool, correct params, valid JSON
 
